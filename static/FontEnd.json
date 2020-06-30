@@ -3125,35 +3125,28 @@
     "pageC1": [
       {
         "pageT2": "我的链接",
-        "T2Name": "luuman",
+        "T2Name": "xyueji",
         "pageC2": [
           {
             "Name": "主页",
-            "Title": "爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。",
+            "Title": "爱动漫、追小说、喜影视、迷于严谨和逻辑的编码之中！！！",
             "Img": "",
             "Num": 99,
-            "Href": "http://luuman.github.io/Home/"
+            "Href": "http://xyueji.github.io/"
           },
           {
             "Name": "博客",
-            "Title": "因为有了危机感，所以会义无反顾。",
+            "Title": "用代码书写人生！",
             "Img": "",
             "Num": 99,
-            "Href": "http://luuman.github.io/"
+            "Href": "http://xyueji.github.io/"
           },
           {
             "Name": "项目",
             "Title": "开发项目",
             "Img": "",
             "Num": 99,
-            "Href": "http://luuman.github.io/works/"
-          },
-          {
-            "Name": "原生Js",
-            "Title": "记录自己学习原生JavaScript的路径",
-            "Img": "",
-            "Num": 99,
-            "Href": "http://luuman.github.io/works/"
+            "Href": "http://xyueji.github.io/works/"
           }
         ]
       },
